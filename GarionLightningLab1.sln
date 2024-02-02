@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarionLightningLab1", "GarionLightningLab1\GarionLightningLab1.csproj", "{312FC9BA-EB51-455D-9D09-ECC9B72AA509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarionLightningLab1.Tests", "GarionLightningLab1.Tests\GarionLightningLab1.Tests.csproj", "{15659F55-B0BA-48B7-83E7-AD0F655FFD75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{312FC9BA-EB51-455D-9D09-ECC9B72AA509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{312FC9BA-EB51-455D-9D09-ECC9B72AA509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{312FC9BA-EB51-455D-9D09-ECC9B72AA509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15659F55-B0BA-48B7-83E7-AD0F655FFD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15659F55-B0BA-48B7-83E7-AD0F655FFD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15659F55-B0BA-48B7-83E7-AD0F655FFD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15659F55-B0BA-48B7-83E7-AD0F655FFD75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
